@@ -1,5 +1,5 @@
 
-![logo](https://github.com/utopia-opensource/utopialib-java/raw/master/logo.png)
+![logo](https://github.com/utopia-opensource/utopialib-java/raw/main/logo.png)
 
 Utopia Ecosystem API wrapper written in Java
 
