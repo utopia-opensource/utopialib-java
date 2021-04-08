@@ -1,4 +1,6 @@
-# utopialib-java
+
+![logo](https://github.com/utopia-opensource/utopialib-java/raw/master/logo.png)
+
 Utopia Ecosystem API wrapper written in Java
 
 example class
